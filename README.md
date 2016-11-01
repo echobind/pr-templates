@@ -2,9 +2,18 @@
 
 ### Purpose
 
-Adding a pull request template to your project helps add clarity around contributing guidelines. By creating a template, contributors gain transparency into the information that is required and/or optional to supplement their code review.
+Adding a pull request template to your project helps add clarity around
+contributing guidelines. The template helps enforce consistency and
+transparency around contributions to your code base. By supplementing your
+pull request with a detailed description, you help the contributor aggregate
+their work into a meaningful summary while providing more context for the
+code reviewer.
 
-This repo was created to share some of the properties of a pull request we consider to be useful during a code review. We've taken some time to split these templates based on the type of project (e.g backend, frontend, open source library, etc...). Please feel free to use these within your own projects, and share with us by contributing to this project.
+This repo was created to share properties of a pull request description we
+consider to be useful during our code review process. We've taken some
+time to split these templates based on the type of project (e.g backend,
+frontend, open source library, etc...). Please feel free to use these templates
+within your own projects, and share with us by contributing to this project.
 
 ### Installation
 
@@ -18,13 +27,16 @@ Create a `.github` directory:
 mkdir .github && cd .github
 ```
 
-Once thats created, you need to download the template from this repo. To download the template you would like to use, you can run the following cURL command:
+Once thats created, you need to download the template from this repo. To
+download the template you would like to use, you can run the following
+cURL command:
 
 ```
 curl -O https://github.com/echobind/pr-templates/blob/master/frontend/PULL_REQUEST_TEMPLATE
 ```
 
-Every template is named `PULL_REQUEST_TEMPLATE` for easy installation, so you just need to update the path in order to retrieve the correct template.
+Every template is named `PULL_REQUEST_TEMPLATE` for easy installation, so you
+just need to update the path in order to retrieve the correct template.
 
 ### Copyright (c)
 
