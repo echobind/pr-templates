@@ -32,7 +32,7 @@ download the template you would like to use, you can run the following
 cURL command:
 
 ```
-curl -O https://github.com/echobind/pr-templates/blob/master/frontend/PULL_REQUEST_TEMPLATE
+curl -O https://raw.githubusercontent.com/echobind/pr-templates/master/frontend/PULL_REQUEST_TEMPLATE
 ```
 
 Every template is named `PULL_REQUEST_TEMPLATE` for easy installation, so you
