@@ -12,7 +12,7 @@ Description of PR that completes issue here...
 ## Testing
 
 - [ ] Automated tests
-- [ ] Manually tested
+- [ ] Looks good on mobile
 
 Fixes #85, Fixes #22, Fixes username/repo#123
 Connects #123
