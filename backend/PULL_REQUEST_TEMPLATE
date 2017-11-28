@@ -52,15 +52,6 @@ HTTP/1.1 200 OK
 - [ ] Automated tests
 - [ ] Manually tested
 
-## Sample CURL Requests
-
-```
-curl -X POST -H "Content-Type: application/json" -H "Cache-Control: no-cache" -H "Postman-Token: my-token" -d '{
-	"user": {
-		"name": "Bruce Wayne"
-	}
-}' "http://localhost:3000/users"
-```
 
 Fixes #85, Fixes #22, Fixes username/repo#123
 Connects #123
