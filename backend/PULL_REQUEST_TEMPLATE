@@ -4,6 +4,7 @@ Description of PR that completes issue here...
 
 - Item 1
 - Item 2
+- Item 3
 
 ## Requests / Responses
 
@@ -49,9 +50,18 @@ HTTP/1.1 200 OK
 
 ## Testing
 
-- [ ] Automated tests
-- [ ] Manually tested
+- [ ] Deploy to staging
+- [ ] Run migrations
+- [ ] Manually QA update
+- [ ] Get approval from stakeholder
+- [ ] Determine production deploy timing
 
+## Production Ready
+
+- [ ] Deploy to production
+- [ ] Run migrations
+- [ ] Sanity check on production
+- [ ] Monitor logs for errors
 
 Fixes #85, Fixes #22, Fixes username/repo#123
 Connects #123
