@@ -2,17 +2,19 @@ Description of PR that completes issue here...
 
 ## Changes
 
-- Item 1
-- Item 2  
+<name_of_repository>:
+
+- Description of changes
 
 ## Screenshots
 
-(prefer animated gif) 
+(prefer animated gif)
 
-## Testing
+## Checklist
 
+- [ ] Requires dependency update?
 - [ ] Automated tests
+- [ ] Looks good on large screens
 - [ ] Looks good on mobile
 
-Fixes #85, Fixes #22, Fixes username/repo#123
-Connects #123
+Closes [TICKET-14](https://linktoticket.com/ticket-number-14)
