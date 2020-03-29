@@ -1,15 +1,15 @@
-Overview / Description
+## Description
 
 ## Changes
 - Change 1
 - Change 2
-
-## Screenshots
-(prefer animated gif)
 
 ## Checklist
 - [ ] Automated tests
 - [ ] Checked on iOS
 - [ ] Checked on Android
 
-Fixes #xx
+## Screenshots
+| Before Fix          | After Fix           |
+| :-------------: |:-------------:|
+| (prefer animated gif)      | (prefer animated gif) |
